@@ -1,8 +1,8 @@
 body {
+  background-color: #efeee7;
   margin: 0;
   padding: 0;
 
-  background-color: #efeee7;
   font-family: Georgia,"Times New Roman",Times,serif;
   color: #333333;
   line-height: 1.5;
@@ -38,13 +38,13 @@ a {
   float: left;
 }
 
-.bio-image {
+#bio-image {
   width: 200px;
   float: left;
-  margin: 10px 10px;
+  margin: 0 10px 0 0;
 }
 
-.contact-info {
+#contact-info {
   width: 30%;
   float: left;
 }
